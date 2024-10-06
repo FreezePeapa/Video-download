@@ -6,6 +6,6 @@ OS(C:)>Windows>System32>
 3. 執行 YT_download_GUI.exe ，就可以開始下載囉!
   
 ## 目前測試可以下載的網站
-Youtube,Twitter/X, Facebook, Reddit, Bilibili, Tiktok抖音(要點開),Twitch, Bilibili哔哩哔哩, WeTV腾讯视频, YouKu 优酷, Niconico ニコニコ(MP3可以), PornHub, XVideos
+Youtube(可以直接下載整個播放清單),Twitter/X, Facebook, Reddit, Bilibili, Tiktok抖音(要點開),Twitch, Bilibili哔哩哔哩, WeTV腾讯视频, YouKu 优酷, Niconico ニコニコ(MP3可以), PornHub, XVideos
 
 
