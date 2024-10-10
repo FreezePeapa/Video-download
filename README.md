@@ -1,4 +1,4 @@
-# Youtube-download-for windows
+# Video-download-for windows
 ### 使用操作:  
 1. 下載 YT_download_GUI.exe 及 ffmpeg.zip  
 2. 解壓縮 ffmpeg.zip 後，將 ffmpeg.exe 檔案放置到以下路徑:  
